@@ -1,7 +1,7 @@
 <!-- Link to Google Fonts for a cool font -->
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 
-<p style="text-align: center; font-family: 'Pacifico', cursive; font-size: 24px;">I'm Unmole Peshal Singh, also known as Manav. I am a final year University Student majoring in Software Engineering.</p>
+<p style="text-align: center; font-family: 'Pacifico', cursive; font-size: 24px;">I'm Unmole Peshal Singh, also known as Manav. I am a Software Engineering major.</p>
 
 
 - 🔭 I’m currently working on **dart project**
